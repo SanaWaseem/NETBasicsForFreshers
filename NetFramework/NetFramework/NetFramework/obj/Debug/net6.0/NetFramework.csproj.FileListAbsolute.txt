@@ -1,0 +1,5 @@
+D:\Projects\NETBasicsForFreshers\NetFramework\NetFramework\NetFramework\obj\Debug\net6.0\NetFramework.csproj.AssemblyReference.cache
+D:\Projects\NETBasicsForFreshers\NetFramework\NetFramework\NetFramework\obj\Debug\net6.0\NetFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NETBasicsForFreshers\NetFramework\NetFramework\NetFramework\obj\Debug\net6.0\NetFramework.AssemblyInfoInputs.cache
+D:\Projects\NETBasicsForFreshers\NetFramework\NetFramework\NetFramework\obj\Debug\net6.0\NetFramework.AssemblyInfo.cs
+D:\Projects\NETBasicsForFreshers\NetFramework\NetFramework\NetFramework\obj\Debug\net6.0\NetFramework.csproj.CoreCompileInputs.cache
